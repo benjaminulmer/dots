@@ -1,0 +1,194 @@
+{
+    "session_name": "default",
+    "session_create_time": "2023-02-04, 12:42:52 p.m.",
+    "active_workspace_index": 3,
+    "x_session_config_objects": [
+        {
+            "window_id": "0x4a00011",
+            "desktop_number": 0,
+            "pid": 47036,
+            "username": "benjaminulmer",
+            "window_position": {
+                "provider": "Meta",
+                "x_offset": 0,
+                "y_offset": 32,
+                "width": 3440,
+                "height": 1408
+            },
+            "client_machine_name": "marika",
+            "window_title": "New Tab - Google Chrome",
+            "app_name": "Google Chrome",
+            "wm_class": "Google-chrome",
+            "wm_class_instance": "google-chrome",
+            "cmd": [
+                "/app/extra/chrome",
+                "--disable-features=WebAssemblyTrapHandler,DesktopPWAsRunOnOsLogin"
+            ],
+            "process_create_time": "Sat Feb 4 12:39:23 2023",
+            "window_state": {
+                "is_sticky": false,
+                "is_above": false,
+                "meta_maximized": 3
+            },
+            "windows_count": 2,
+            "cpu_percent": "2.2",
+            "memory_percent": "0.5",
+            "desktop_file_id": "com.google.Chrome.desktop",
+            "desktop_file_id_full_path": "/home/benjaminulmer/.local/share/flatpak/exports/share/applications/com.google.Chrome.desktop",
+            "monitor_number": 0,
+            "is_on_primary_monitor": true,
+            "fullscreen": false,
+            "minimized": false
+        },
+        {
+            "window_id": "0x4a0000a",
+            "desktop_number": 1,
+            "pid": 47036,
+            "username": "benjaminulmer",
+            "window_position": {
+                "provider": "Meta",
+                "x_offset": 0,
+                "y_offset": 32,
+                "width": 3440,
+                "height": 1408
+            },
+            "client_machine_name": "marika",
+            "window_title": "New Tab - Google Chrome",
+            "app_name": "Google Chrome",
+            "wm_class": "Google-chrome",
+            "wm_class_instance": "google-chrome",
+            "cmd": [
+                "/app/extra/chrome",
+                "--disable-features=WebAssemblyTrapHandler,DesktopPWAsRunOnOsLogin"
+            ],
+            "process_create_time": "Sat Feb 4 12:39:23 2023",
+            "window_state": {
+                "is_sticky": false,
+                "is_above": false,
+                "meta_maximized": 3
+            },
+            "windows_count": 2,
+            "cpu_percent": "2.2",
+            "memory_percent": "0.5",
+            "desktop_file_id": "com.google.Chrome.desktop",
+            "desktop_file_id_full_path": "/home/benjaminulmer/.local/share/flatpak/exports/share/applications/com.google.Chrome.desktop",
+            "monitor_number": 0,
+            "is_on_primary_monitor": true,
+            "fullscreen": false,
+            "minimized": false
+        },
+        {
+            "window_id": "0x600003",
+            "desktop_number": 2,
+            "pid": 46716,
+            "username": "benjaminulmer",
+            "window_position": {
+                "provider": "Meta",
+                "x_offset": 0,
+                "y_offset": 32,
+                "width": 3440,
+                "height": 1408
+            },
+            "client_machine_name": "marika",
+            "window_title": "Get Started - Visual Studio Code",
+            "app_name": "Visual Studio Code",
+            "wm_class": "Code",
+            "wm_class_instance": "code",
+            "cmd": [
+                "/usr/share/code/code",
+                "--unity-launch",
+                "--enable-crashpad"
+            ],
+            "process_create_time": "Sat Feb 4 12:39:07 2023",
+            "window_state": {
+                "is_sticky": false,
+                "is_above": false,
+                "meta_maximized": 3
+            },
+            "windows_count": 1,
+            "cpu_percent": "1.0",
+            "memory_percent": "0.2",
+            "desktop_file_id": "code.desktop",
+            "desktop_file_id_full_path": "/usr/share/applications/code.desktop",
+            "monitor_number": 0,
+            "is_on_primary_monitor": true,
+            "fullscreen": false,
+            "minimized": false
+        },
+        {
+            "window_id": "0x2200008",
+            "desktop_number": 3,
+            "pid": 43416,
+            "username": "benjaminulmer",
+            "window_position": {
+                "provider": "Meta",
+                "x_offset": 0,
+                "y_offset": 32,
+                "width": 1720,
+                "height": 1408
+            },
+            "client_machine_name": "marika",
+            "window_title": "Friends - Discord",
+            "app_name": "Discord",
+            "wm_class": "discord",
+            "wm_class_instance": "discord",
+            "cmd": [
+                "/usr/share/discord/Discord"
+            ],
+            "process_create_time": "Sat Feb 4 12:29:18 2023",
+            "window_state": {
+                "is_sticky": false,
+                "is_above": false,
+                "meta_maximized": 0
+            },
+            "windows_count": 1,
+            "cpu_percent": "0.3",
+            "memory_percent": "0.2",
+            "desktop_file_id": "discord.desktop",
+            "desktop_file_id_full_path": "/usr/share/applications/discord.desktop",
+            "monitor_number": 0,
+            "is_on_primary_monitor": true,
+            "fullscreen": false,
+            "minimized": false
+        },
+        {
+            "window_id": "0x3800003",
+            "desktop_number": 3,
+            "pid": 44039,
+            "username": "benjaminulmer",
+            "window_position": {
+                "provider": "Meta",
+                "x_offset": 1720,
+                "y_offset": 32,
+                "width": 1720,
+                "height": 1408
+            },
+            "client_machine_name": "marika",
+            "window_title": "guestchannel - VividTheory - Slack",
+            "app_name": "Slack",
+            "wm_class": "Slack",
+            "wm_class_instance": "slack",
+            "cmd": [
+                "/app/extra/lib/slack/slack",
+                "-s",
+                "--enable-features=WebRTCPipeWireCapturer",
+                "--enable-crashpad"
+            ],
+            "process_create_time": "Sat Feb 4 12:29:25 2023",
+            "window_state": {
+                "is_sticky": false,
+                "is_above": false,
+                "meta_maximized": 0
+            },
+            "windows_count": 1,
+            "cpu_percent": "0.3",
+            "memory_percent": "0.2",
+            "desktop_file_id": "com.slack.Slack.desktop",
+            "desktop_file_id_full_path": "/home/benjaminulmer/.local/share/flatpak/exports/share/applications/com.slack.Slack.desktop",
+            "monitor_number": 0,
+            "is_on_primary_monitor": true,
+            "fullscreen": false,
+            "minimized": false
+        }
+    ]
+}

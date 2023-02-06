@@ -1,0 +1,209 @@
+{
+    "session_name": "dev",
+    "session_create_time": "2023-02-04, 9:42:14 p.m.",
+    "active_workspace_index": 2,
+    "x_session_config_objects": [
+        {
+            "window_id": "0x4a00019",
+            "desktop_number": 0,
+            "pid": 23013,
+            "username": "benjaminulmer",
+            "window_position": {
+                "provider": "Meta",
+                "x_offset": 0,
+                "y_offset": 32,
+                "width": 3440,
+                "height": 1408
+            },
+            "client_machine_name": "marika",
+            "window_title": "Leleat/Tiling-Assistant: A GNOME extension which adds a Windows-like snap assist to the GNOME desktop environment. It also expands the 2x2 grid design. - Google Chrome",
+            "app_name": "Google Chrome",
+            "wm_class": "Google-chrome",
+            "wm_class_instance": "google-chrome",
+            "cmd": [
+                "/app/extra/chrome",
+                "--disable-features=WebAssemblyTrapHandler,DesktopPWAsRunOnOsLogin"
+            ],
+            "process_create_time": "Sat Feb 4 21:15:44 2023",
+            "window_state": {
+                "is_sticky": false,
+                "is_above": false,
+                "meta_maximized": 3
+            },
+            "windows_count": 1,
+            "cpu_percent": "0.5",
+            "memory_percent": "0.7",
+            "desktop_file_id": "com.google.Chrome.desktop",
+            "desktop_file_id_full_path": "/home/benjaminulmer/.local/share/flatpak/exports/share/applications/com.google.Chrome.desktop",
+            "monitor_number": 0,
+            "is_on_primary_monitor": true,
+            "fullscreen": false,
+            "minimized": false
+        },
+        {
+            "window_id": "0x3e00003",
+            "desktop_number": 1,
+            "pid": 26274,
+            "username": "benjaminulmer",
+            "window_position": {
+                "provider": "Meta",
+                "x_offset": 0,
+                "y_offset": 32,
+                "width": 3440,
+                "height": 1408
+            },
+            "client_machine_name": "marika",
+            "window_title": "bar.cpp - Untitled (Workspace) - Visual Studio Code",
+            "app_name": "Visual Studio Code",
+            "wm_class": "Code",
+            "wm_class_instance": "code",
+            "cmd": [
+                "/usr/share/code/code",
+                "--unity-launch",
+                "--enable-crashpad"
+            ],
+            "process_create_time": "Sat Feb 4 21:30:19 2023",
+            "window_state": {
+                "is_sticky": false,
+                "is_above": false,
+                "meta_maximized": 3
+            },
+            "windows_count": 1,
+            "cpu_percent": "1.0",
+            "memory_percent": "0.2",
+            "desktop_file_id": "code.desktop",
+            "desktop_file_id_full_path": "/usr/share/applications/code.desktop",
+            "monitor_number": 0,
+            "is_on_primary_monitor": true,
+            "fullscreen": false,
+            "minimized": false
+        },
+        {
+            "window_id": "0x5400004",
+            "desktop_number": 1,
+            "pid": 29998,
+            "username": "benjaminulmer",
+            "window_position": {
+                "provider": "Meta",
+                "x_offset": 2498,
+                "y_offset": 96,
+                "width": 811,
+                "height": 640
+            },
+            "client_machine_name": "marika",
+            "window_title": "btop ~",
+            "app_name": "Alacritty",
+            "wm_class": "Alacritty",
+            "wm_class_instance": "Alacritty",
+            "cmd": [
+                "alacritty"
+            ],
+            "process_create_time": "Sat Feb 4 21:38:31 2023",
+            "window_state": {
+                "is_sticky": false,
+                "is_above": false,
+                "meta_maximized": 0
+            },
+            "windows_count": 1,
+            "cpu_percent": "0.2",
+            "memory_percent": "0.1",
+            "desktop_file_id": "com.alacritty.Alacritty.desktop",
+            "desktop_file_id_full_path": "/usr/share/applications/com.alacritty.Alacritty.desktop",
+            "monitor_number": 0,
+            "is_on_primary_monitor": true,
+            "fullscreen": false,
+            "minimized": false
+        },
+        {
+            "window_id": "0x600008",
+            "desktop_number": 2,
+            "pid": 21947,
+            "username": "benjaminulmer",
+            "window_position": {
+                "provider": "Meta",
+                "x_offset": 0,
+                "y_offset": 32,
+                "width": 1720,
+                "height": 1408
+            },
+            "client_machine_name": "marika",
+            "window_title": "Friends - Discord",
+            "app_name": "Discord",
+            "wm_class": "discord",
+            "wm_class_instance": "discord",
+            "cmd": [
+                "/usr/share/discord/Discord"
+            ],
+            "process_create_time": "Sat Feb 4 21:15:28 2023",
+            "window_state": {
+                "is_sticky": false,
+                "is_above": false,
+                "meta_maximized": 2
+            },
+            "windows_count": 1,
+            "cpu_percent": "0.2",
+            "memory_percent": "0.2",
+            "desktop_file_id": "discord.desktop",
+            "desktop_file_id_full_path": "/usr/share/applications/discord.desktop",
+            "monitor_number": 0,
+            "is_on_primary_monitor": true,
+            "fullscreen": false,
+            "minimized": false,
+            "window_tiling": {
+                "window_tile_for": {
+                    "app_name": "Slack",
+                    "desktop_file_id": "com.slack.Slack.desktop",
+                    "desktop_file_id_full_path": "/home/benjaminulmer/.local/share/flatpak/exports/share/applications/com.slack.Slack.desktop",
+                    "window_title": "bg-triangulum - VividTheory - Slack"
+                }
+            }
+        },
+        {
+            "window_id": "0x2000003",
+            "desktop_number": 2,
+            "pid": 21756,
+            "username": "benjaminulmer",
+            "window_position": {
+                "provider": "Meta",
+                "x_offset": 1720,
+                "y_offset": 32,
+                "width": 1720,
+                "height": 1408
+            },
+            "client_machine_name": "marika",
+            "window_title": "bg-triangulum - VividTheory - Slack",
+            "app_name": "Slack",
+            "wm_class": "Slack",
+            "wm_class_instance": "slack",
+            "cmd": [
+                "/app/extra/lib/slack/slack",
+                "-s",
+                "--enable-features=WebRTCPipeWireCapturer",
+                "--enable-crashpad"
+            ],
+            "process_create_time": "Sat Feb 4 21:15:26 2023",
+            "window_state": {
+                "is_sticky": false,
+                "is_above": false,
+                "meta_maximized": 2
+            },
+            "windows_count": 1,
+            "cpu_percent": "0.1",
+            "memory_percent": "0.2",
+            "desktop_file_id": "com.slack.Slack.desktop",
+            "desktop_file_id_full_path": "/home/benjaminulmer/.local/share/flatpak/exports/share/applications/com.slack.Slack.desktop",
+            "monitor_number": 0,
+            "is_on_primary_monitor": true,
+            "fullscreen": false,
+            "minimized": false,
+            "window_tiling": {
+                "window_tile_for": {
+                    "app_name": "Discord",
+                    "desktop_file_id": "discord.desktop",
+                    "desktop_file_id_full_path": "/usr/share/applications/discord.desktop",
+                    "window_title": "Friends - Discord"
+                }
+            }
+        }
+    ]
+}
