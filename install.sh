@@ -5,14 +5,16 @@ sudo apt update
 sudo apt install fish
 
 sudo apt install btop
-sudo apt install exa
+sudo apt install kitty
 sudo apt install bat
 curl -sL https://raw.githubusercontent.com/jorgebucaran/fisher/main/functions/fisher.fish | source && fisher install jorgebucaran/fisher
 fisher install jethrokuan/z
 
 curl https://sh.rustup.rs -sSf | sh
 fish_add_path /home/benjaminulmer/.cargo/bin/
+rustup default stable
 cargo install sd
+cargo install lsd
 
 mkdir -p ~/.local/share/fonts
 cp RobotoMono/*.ttf ~/.local/share/fonts/
