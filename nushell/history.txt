@@ -1,0 +1,25 @@
+ls
+z raster
+clang++
+cd Documents/biggeo/bg-rasterization/
+ls
+ci RelWithDebInfo clang
+cmake --preset=dev-unix
+cmake --build build/dev-unix/
+cmake --build build/dev-unix/ -j 18
+ls
+ls *lock
+ls **/*
+ls */*
+exa
+ls
+exa
+exa -lah
+ls --help
+ls -a
+ls -lah
+exa -lah
+ls
+exa
+lh
+exit

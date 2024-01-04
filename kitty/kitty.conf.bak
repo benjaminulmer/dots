@@ -10,6 +10,6 @@ mouse_map ctrl+left click ungrabbed mouse_handle_click link
 
 
 # BEGIN_KITTY_THEME
-# Catppuccin-Mocha
+# Catppuccin Kitty Mocha
 include current-theme.conf
 # END_KITTY_THEME
