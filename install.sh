@@ -20,6 +20,9 @@ cargo install lsd
 mkdir -p ~/.local/share/fonts
 cp RobotoMono/*.ttf ~/.local/share/fonts/
 
+curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim.appimage
+chmod u+x nvim.appimage
+mv nvim.appimage /home/benjaminulmer/.local/bin
+
 fish_add_path /home/benjaminulmer/.local/kitty.app/bin/
-sudo update-alternatives --install /usr/bin/x-terminal-emulator x-terminal-emula
-tor /home/benjaminulmer/.local/kitty.app/bin/kitty 50
+sudo update-alternatives --install /usr/bin/x-terminal-emulator x-terminal-emulator /home/benjaminulmer/.local/kitty.app/bin/kitty 50
