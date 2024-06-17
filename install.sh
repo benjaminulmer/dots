@@ -26,3 +26,7 @@ mv nvim.appimage /home/benjaminulmer/.local/bin
 
 fish_add_path /home/benjaminulmer/.local/kitty.app/bin/
 sudo update-alternatives --install /usr/bin/x-terminal-emulator x-terminal-emulator /home/benjaminulmer/.local/kitty.app/bin/kitty 50
+
+cargo install lsd
+cargo install sd
+
