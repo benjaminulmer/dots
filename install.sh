@@ -30,3 +30,4 @@ sudo update-alternatives --install /usr/bin/x-terminal-emulator x-terminal-emula
 cargo install lsd
 cargo install sd
 
+gsettings set org.gnome.shell.window-switcher current-workspace-only false
