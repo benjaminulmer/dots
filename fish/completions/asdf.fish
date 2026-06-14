@@ -1,1 +1,0 @@
-/home/benjaminulmer/.asdf/completions/asdf.fish
