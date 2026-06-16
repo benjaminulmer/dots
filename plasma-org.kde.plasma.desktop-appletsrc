@@ -10,7 +10,7 @@ activityId=
 formfactor=2
 immutability=1
 lastScreen=0
-location=4
+location=3
 plugin=org.kde.panel
 wallpaperplugin=org.kde.image
 
@@ -19,7 +19,7 @@ immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][23][Applets][24][Configuration]
-popupHeight=545
+popupHeight=528
 popupWidth=673
 
 [Containments][23][Applets][24][Configuration][ConfigDialog]
@@ -143,8 +143,17 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][23][Applets][38][Configuration]
-popupHeight=400
+popupHeight=451
 popupWidth=560
+
+[Containments][23][Applets][38][Configuration][Appearance]
+dateFormat=isoDate
+firstDayOfWeek=1
+use24hFormat=2
+
+[Containments][23][Applets][38][Configuration][ConfigDialog]
+DialogHeight=630
+DialogWidth=810
 
 [Containments][23][Applets][39]
 immutability=1
@@ -158,20 +167,16 @@ Image=/usr/share/wallpapers/cachyos-wallpapers/north.png
 PreviewImage=/usr/share/wallpapers/cachyos-wallpapers/north.png
 SlidePaths=/usr/share/wallpapers/
 
-[Containments][43]
-ItemGeometries-3440x1440=
+[Containments][44]
+ItemGeometries-1671x1114=
 ItemGeometriesHorizontal=
-activityId=920130e4-b5af-4566-a4f9-c066e65c13d5
+activityId=3ddb1034-ab35-4256-85c0-d878da8db1dd
 formfactor=0
 immutability=1
 lastScreen=0
 location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
-
-[Containments][43][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/wallpapers/cachyos-wallpapers/limine-splash.png
-SlidePaths=/usr/share/wallpapers/
 
 [ScreenMapping]
 itemsOnDisabledScreens=
